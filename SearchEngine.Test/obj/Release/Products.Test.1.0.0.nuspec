@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Products.Test</id>
+    <version>1.0.0</version>
+    <authors>Products.Test</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1">
+        <dependency id="Products.Core" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="Products.Services" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="Castle.Core" version="4.4.1" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.NETCore.TestHost" version="5.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.TestPlatform.TestHost" version="16.8.3" exclude="Build,Analyzers" />
+        <dependency id="Moq" version="4.16.0" exclude="Build,Analyzers" />
+        <dependency id="NUnit" version="3.13.1" exclude="Build,Analyzers" />
+        <dependency id="NUnit3TestAdapter" version="3.17.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <contentFiles>
+      <files include="any/netcoreapp3.1/testhost.exe" buildAction="Content" />
+      <files include="any/netcoreapp3.1/testhost.dll" buildAction="Content" />
+      <files include="any/netcoreapp3.1/Microsoft.TestPlatform.PlatformAbstractions.dll" buildAction="Content" />
+    </contentFiles>
+  </metadata>
+  <files>
+    <file src="C:\Users\DELLO\source\repos\ProductsSolution\Products.Test\bin\Release\netcoreapp3.1\Products.Test.dll" target="lib\netcoreapp3.1\Products.Test.dll" />
+    <file src="C:\Users\DELLO\.nuget\packages\microsoft.testplatform.testhost\16.8.3\build\netcoreapp2.1\x64\testhost.exe" target="content\testhost.exe" />
+    <file src="C:\Users\DELLO\.nuget\packages\microsoft.testplatform.testhost\16.8.3\build\netcoreapp2.1\x64\testhost.exe" target="contentFiles\any\netcoreapp3.1\testhost.exe" />
+    <file src="C:\Users\DELLO\.nuget\packages\microsoft.testplatform.testhost\16.8.3\build\netcoreapp2.1\x64\testhost.dll" target="content\testhost.dll" />
+    <file src="C:\Users\DELLO\.nuget\packages\microsoft.testplatform.testhost\16.8.3\build\netcoreapp2.1\x64\testhost.dll" target="contentFiles\any\netcoreapp3.1\testhost.dll" />
+    <file src="C:\Users\DELLO\.nuget\packages\microsoft.testplatform.testhost\16.8.3\build\netcoreapp2.1\x64\Microsoft.TestPlatform.PlatformAbstractions.dll" target="content\Microsoft.TestPlatform.PlatformAbstractions.dll" />
+    <file src="C:\Users\DELLO\.nuget\packages\microsoft.testplatform.testhost\16.8.3\build\netcoreapp2.1\x64\Microsoft.TestPlatform.PlatformAbstractions.dll" target="contentFiles\any\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll" />
+  </files>
+</package>

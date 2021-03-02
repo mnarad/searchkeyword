@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "bG8Q9hiOIkxbsPgoN5W+Y00OwJY7wQUUVnk1XWRMuqmxr8vyTKyRtfUoYEJ9I/qu70fiWAJVojFT9OkK6AsEKg==",
+  "success": true,
+  "projectFilePath": "D:\\sympli\\SearchEngineSolution\\SearchEngine.Core\\SearchEngine.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELLO\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\DELLO\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\DELLO\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

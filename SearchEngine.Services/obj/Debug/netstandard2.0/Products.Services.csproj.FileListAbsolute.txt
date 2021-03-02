@@ -1,0 +1,12 @@
+C:\Users\DELLO\source\repos\ProductsSolution\Products.Services\bin\Debug\netstandard2.0\Products.Services.deps.json
+C:\Users\DELLO\source\repos\ProductsSolution\Products.Services\bin\Debug\netstandard2.0\Products.Services.dll
+C:\Users\DELLO\source\repos\ProductsSolution\Products.Services\bin\Debug\netstandard2.0\Products.Services.pdb
+C:\Users\DELLO\source\repos\ProductsSolution\Products.Services\bin\Debug\netstandard2.0\Products.Core.dll
+C:\Users\DELLO\source\repos\ProductsSolution\Products.Services\bin\Debug\netstandard2.0\Products.Core.pdb
+C:\Users\DELLO\source\repos\ProductsSolution\Products.Services\obj\Debug\netstandard2.0\Products.Services.csprojAssemblyReference.cache
+C:\Users\DELLO\source\repos\ProductsSolution\Products.Services\obj\Debug\netstandard2.0\Products.Services.AssemblyInfoInputs.cache
+C:\Users\DELLO\source\repos\ProductsSolution\Products.Services\obj\Debug\netstandard2.0\Products.Services.AssemblyInfo.cs
+C:\Users\DELLO\source\repos\ProductsSolution\Products.Services\obj\Debug\netstandard2.0\Products.Services.csproj.CoreCompileInputs.cache
+C:\Users\DELLO\source\repos\ProductsSolution\Products.Services\obj\Debug\netstandard2.0\Products.Services.csproj.CopyComplete
+C:\Users\DELLO\source\repos\ProductsSolution\Products.Services\obj\Debug\netstandard2.0\Products.Services.dll
+C:\Users\DELLO\source\repos\ProductsSolution\Products.Services\obj\Debug\netstandard2.0\Products.Services.pdb
